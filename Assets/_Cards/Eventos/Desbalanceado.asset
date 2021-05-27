@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 059b01def4b529846b90ba7aacbf00fd, type: 3}
+  m_Name: Desbalanceado
+  m_EditorClassIdentifier: 
+  cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
+  name: DESBALANCEADO
+  description: "Si esta carta est\xE1 activa todos mantendr\xE1n sus efectos como
+    clase, pero podr\xE1n elegir entre jugadores con quien cambiar sus stats. Dura
+    3 rondas."
+  model: {fileID: 450011297143255479, guid: e0d854ecf6a58944a84debe275ad66a9, type: 3}
