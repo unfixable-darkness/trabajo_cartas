@@ -5,7 +5,7 @@ using TMPro;
 
 public class CardBDisplay : MonoBehaviour
 {
-    public CardB card;
+    public CardB cardB;
 	
 	public GameObject CardType;
 	//public GameObject Model;
@@ -31,16 +31,19 @@ public class CardBDisplay : MonoBehaviour
 		}
 		foreach( Transform child in ModelsParent)
 		{
-			child.gameObject.SetActive(false);
+			//child.gameObject.SetActive(false);
+			GameObject.Destroy(child.gameObject);
 		}
 		
 		//------Prender objects y Asignar información------
 		CardType.SetActive(true);
-		NameText.text = card.name;
-		PVText.text = card.PV;
-		ATKText.text = card.ATK;
-		DescriptionText.text = card.description;
-		Instantiate(card.model, ModelsParent.position, ModelsParent.rotation);
+		NameText.text = cardB.name;
+		PVText.text = cardB.PV;
+		ATKText.text = cardB.ATK;
+		DescriptionText.text = cardB.description;
+		var NewModel = Instantiate(cardB.model, ModelsParent.position, ModelsParent.rotation);
+		NewModel.transform.parent = ModelsParent.transform;
+		//Instantiate(cardB.model, ModelsParent.position, ModelsParent.rotation);
 		//Model.SetActive(true);
 	}
 }
