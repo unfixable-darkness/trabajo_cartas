@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: DIA DE PAGA
-  description: 
+  description: "Si esta carta est\xE1 activa todos deber\xE1n tirar un dado y si
+    este tiene como resultado un 2 o un 1, se dar\xE1 un bono de ataque de +2 al
+    aliado o a los dos enemigos del traidor."
   model: {fileID: 5822333426847690487, guid: dec60181e1cc0de46aacc63375c84c2d, type: 3}
