@@ -15,4 +15,4 @@ MonoBehaviour:
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: POCIMA OSCURA
   description: 
-  model: {fileID: 0}
+  model: {fileID: 919132149155446097, guid: 4539c5df566782548b32f42306b5396c, type: 3}
