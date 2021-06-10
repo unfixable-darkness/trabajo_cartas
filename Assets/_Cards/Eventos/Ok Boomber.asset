@@ -15,4 +15,4 @@ MonoBehaviour:
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: OK, BOOMBER
   description: 
-  model: {fileID: 0}
+  model: {fileID: 4312935909863518653, guid: 9687034bdf55e554eb1b7c7e887d4c71, type: 3}

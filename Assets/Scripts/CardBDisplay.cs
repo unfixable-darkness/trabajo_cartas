@@ -14,6 +14,7 @@ public class CardBDisplay : MonoBehaviour
 	public TMP_Text NameText;
 	public TMP_Text PVText;
 	public TMP_Text ATKText;
+	[TextArea]
 	public TMP_Text DescriptionText;
 	
 	

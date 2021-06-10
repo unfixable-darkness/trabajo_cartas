@@ -9,6 +9,7 @@ public class CardB : ScriptableObject
 	public new string name;
 	public string PV;
 	public string ATK;
+	[TextArea]
 	public string description;
 	public GameObject model;
 }

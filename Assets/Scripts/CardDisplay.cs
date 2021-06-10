@@ -12,6 +12,7 @@ public class CardDisplay : MonoBehaviour
 	public Transform CardsParent;
 	public Transform ModelsParent;
 	public TMP_Text NameText;
+	[TextArea]
 	public TMP_Text DescriptionText;
 	
 	

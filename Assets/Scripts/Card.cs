@@ -7,6 +7,7 @@ public class Card : ScriptableObject
 {
 	public GameObject cardType;
 	public new string name;
+	[TextArea]
 	public string description;
 	public GameObject model;
 
