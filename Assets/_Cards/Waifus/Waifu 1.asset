@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Waifu 1
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 42b723cc4dcc722489244443c63f2508, type: 3}
-  name: WAIFU RIN
+  name: WAIFU Fischl
   PV: 
   ATK: 
   description: 
-  model: {fileID: 8585528423698701737, guid: 8778c7d17992102448c36e5971ecb87d, type: 3}
+  model: {fileID: 2055196974725866145, guid: 9c1a36c1e074ee54989ddb61bf2141a1, type: 3}
