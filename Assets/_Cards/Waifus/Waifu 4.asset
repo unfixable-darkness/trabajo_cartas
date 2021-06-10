@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Waifu 4
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 42b723cc4dcc722489244443c63f2508, type: 3}
-  name: WAIFU
+  name: Pneuma
   PV: 
   ATK: 
   description: 
-  model: {fileID: 0}
+  model: {fileID: 5354558184481803655, guid: b96b3b7b6d96b804299db4ba5df46e88, type: 3}

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Waifu 3
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 42b723cc4dcc722489244443c63f2508, type: 3}
-  name: WAIFU
+  name: Sonico
   PV: 
   ATK: 
   description: 
-  model: {fileID: 0}
+  model: {fileID: 8450895045604820087, guid: cce4c02dd7fd3cf4a882d009c1c35d63, type: 3}

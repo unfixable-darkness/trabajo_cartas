@@ -15,4 +15,4 @@ MonoBehaviour:
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: NIGROMANTE
   description: 
-  model: {fileID: 0}
+  model: {fileID: 2393947786408458429, guid: 466a5fa32c968f7448f29884def58997, type: 3}
