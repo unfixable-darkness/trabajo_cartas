@@ -16,5 +16,6 @@ MonoBehaviour:
   name: Pyra
   PV: 
   ATK: 
-  description: 
-  model: {fileID: 8310120393137546594, guid: 9a533f6483eae624c9fc35ac39c8714a, type: 3}
+  description: Most powerful fire blade in Alrest. She loves cooking and is the little
+    sister of Pneuma
+  model: {fileID: 5835906362235845555, guid: b1c35ff59e2640b4e97df4ee86e4ffab, type: 3}

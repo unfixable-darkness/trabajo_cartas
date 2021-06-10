@@ -16,5 +16,6 @@ MonoBehaviour:
   name: GUERRERO
   PV: 
   ATK: 
-  description: 
+  description: "Mask that was forged in hell itself. It gives it\xB4s user more strength
+    and demonic abilities"
   model: {fileID: 1635678286281417662, guid: 6dbb1952b94de7646b04627e3a1565b2, type: 3}

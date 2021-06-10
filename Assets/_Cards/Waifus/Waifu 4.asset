@@ -16,5 +16,6 @@ MonoBehaviour:
   name: Pneuma
   PV: 
   ATK: 
-  description: 
+  description: Goddess and light blade. She is the most powerful blade in Alrest.
+    Pyra is her little sister
   model: {fileID: 5354558184481803655, guid: b96b3b7b6d96b804299db4ba5df46e88, type: 3}
