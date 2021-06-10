@@ -15,4 +15,4 @@ MonoBehaviour:
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: VAMPIRO
   description: 
-  model: {fileID: 0}
+  model: {fileID: 9039391591259060396, guid: d109488a76447e1468b4d3521a426349, type: 3}

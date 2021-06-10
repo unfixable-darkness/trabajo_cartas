@@ -14,5 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: HOMBRE LOBO
-  description: 
+  description: '2 PV y 5 ATK
+
+    5 PV  y 2 ATK
+
+    Escoge atacar como humano o
+    como lobo.
+
+    No se puede cambiar entre turnos'
   model: {fileID: 5454390476389030876, guid: dec63f30a6fd4184b981161727231fed, type: 3}

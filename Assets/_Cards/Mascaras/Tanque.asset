@@ -16,4 +16,6 @@ MonoBehaviour:
   name: TANQUE
   PV: 10
   ATK: 1
+  description: "Toma el golpe dirigido a un aliado y tira un dado.\r\n1-3: recibe
+    el da\xF1o\r\n4-6: sin da\xF1o\r\nCooldown: 1 ronda\r\n"
   model: {fileID: 2531260353101399688, guid: ee2b4521c9a8be8409740249974b2e86, type: 3}

@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: DEMANDA POPULAR
-  description: 
+  description: Todos los enemigos que hayan sido derrotados regresan en juego con
+    1 de vida
   model: {fileID: 8835701045666814142, guid: 250bcb87e5268514ca116b4ed5d82ce0, type: 3}
