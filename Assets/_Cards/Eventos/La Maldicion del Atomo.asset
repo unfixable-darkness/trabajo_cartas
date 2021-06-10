@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: LA MALDICION DEL ATOMO
-  description: 
+  description: "Si esta carta est\xE1 activa cualquier da\xF1o ser\xE1 convertido
+    en da\xF1o venenoso (-1pv por ronda) y anula el da\xF1o original.  "
   model: {fileID: 7852400361317016903, guid: b3a71a003f5ca534abcf6fa68740c444, type: 3}

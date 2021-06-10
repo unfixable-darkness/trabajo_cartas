@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: MUERTE VIVIENTE
-  description: 
+  description: "Si esta carta est\xE1 activa y alg\xFAn miembro de los aliados est\xE1
+    muerto (solamente uno por presencia en el tablero), esta carta le permite resucitar
+    dentro de 3 rondas. Dura 1 ronda.  "
   model: {fileID: 8337578548586789504, guid: e3ddc591aa7396440ac2cf35f7a4c607, type: 3}
