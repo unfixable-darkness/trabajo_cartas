@@ -14,5 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: HORROWEEN
-  description: 
+  description: "Mientras est\xE9 activa, beneficia a las unidades enemigas atacadas
+    por tus unidades, con +1 en ATK y PV. El bono se activa cuando no logras matarlo.
+    Dura 5 turnos, terminados estos, s\xF3lo 2 cartas enemigas pueden conservar los
+    stats ganados."
   model: {fileID: 3899856453893977076, guid: e5312997c1e99c74ca35c7e56ad36863, type: 3}

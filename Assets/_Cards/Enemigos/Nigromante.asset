@@ -14,5 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: NIGROMANTE
-  description: A powerful skeleton caster that specialices in necromancer magic
+  description: '1 PV
+
+    3 ATK
+
+    Un poderoso lanzador de esqueletos que se especializa
+    en magia nigromante.'
   model: {fileID: 2393947786408458429, guid: 466a5fa32c968f7448f29884def58997, type: 3}

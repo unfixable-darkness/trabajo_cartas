@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: REGLA 34
-  description: 
+  description: "ATK \r 10\nPV 12\nSi existe, hay ewe de ello. Sin excepciones\r\n"
   model: {fileID: 5869387553722937289, guid: 83570f56f22a5ac4bbcf21890e18e50c, type: 3}

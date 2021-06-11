@@ -16,5 +16,5 @@ MonoBehaviour:
   name: TRAIDOR
   PV: 
   ATK: 
-  description: 
+  description: El traidor no necesita stats
   model: {fileID: 3739051213591325990, guid: 7d3c0050e9910dc4a8b91db9c7223310, type: 3}

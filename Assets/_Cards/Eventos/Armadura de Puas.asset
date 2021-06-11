@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: ARMADURA DE PUAS
-  description: 
+  description: Cuando la carta sea jugada, todas las unidades enemigas en juego consiguen
+    doble de PV.
   model: {fileID: 7789526448551435028, guid: 0f2cfb364f936c540a0fc461488a45f6, type: 3}

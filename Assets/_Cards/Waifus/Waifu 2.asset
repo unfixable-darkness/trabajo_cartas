@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Waifu 2
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 42b723cc4dcc722489244443c63f2508, type: 3}
-  name: WAIFU AYANE
+  name: AYANE
   PV: 
   ATK: 
-  description: 
+  description: Una chica normal por fuera, una asesiana por dentro.
   model: {fileID: 873910328776678532, guid: 2083a26b3ec6260499042733ca427aa1, type: 3}

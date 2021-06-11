@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 42b723cc4dcc722489244443c63f2508, type: 3}
   name: ASESINO
-  PV: 
-  ATK: 
-  description: 
+  PV: 6 PV
+  ATK: 3 ATK
+  description: "Por cada dos enemigos que este derrote su siguiente ataque har\xE1
+    el doble de da\xF1o al siguiente enemigo que escoja."
   model: {fileID: 9054212892604132870, guid: 8f5c402912dfdcc468827649ebdf575c, type: 3}

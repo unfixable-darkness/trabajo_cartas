@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Waifu 1
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 42b723cc4dcc722489244443c63f2508, type: 3}
-  name: WAIFU Fischl
+  name: Fischl
   PV: 
   ATK: 
-  description: 
+  description: Una chica misteriosa que se hace llamar "la princesa del juicio".
+    Siempre camina junto con un cuervo oscuro, llamado Oz. Actualmente hace de investigadora
+    en el Gremio de Aventureros.
   model: {fileID: 2055196974725866145, guid: 9c1a36c1e074ee54989ddb61bf2141a1, type: 3}

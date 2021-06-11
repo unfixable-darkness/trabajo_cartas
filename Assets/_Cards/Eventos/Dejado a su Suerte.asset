@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: DEJADO A SU SUERTE
-  description: 
+  description: "Si esta carta se encuentra presente, cada vez que alguien se encuentre
+    con 1 o 2 puntos de vida podr\xE1 tirar dos veces su dado de defensa y quedarse
+    con el n\xFAmero m\xE1s alto. Dura 2 rondas."
   model: {fileID: 5435604444513245373, guid: 7108aa73b9f758a4a95f56fcf7ea6fb4, type: 3}

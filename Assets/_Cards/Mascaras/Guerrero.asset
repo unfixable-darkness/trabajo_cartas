@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 42b723cc4dcc722489244443c63f2508, type: 3}
   name: GUERRERO
-  PV: 
-  ATK: 
-  description: "Mask that was forged in hell itself. It gives it\xB4s user more strength
-    and demonic abilities"
+  PV: 8 PV
+  ATK: 2 ATK
+  description: 'Decide al inicio de la oleada si tirar un dado y obtener un bono
+    de ATK o tirar el doble de su resultado en cualquier tirada que involucra defensa.
+    1-4: falla al obtener el bono. 5-6: obtiene el bono. Cooldown 1 ronda (no aplica
+    la ronda del tiro)'
   model: {fileID: 1635678286281417662, guid: 6dbb1952b94de7646b04627e3a1565b2, type: 3}

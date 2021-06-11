@@ -14,5 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: ZOMBIE
-  description: 
+  description: '3 PV
+
+    2 ATK
+
+    BRAINSSS, puede contagiar a los aliados con
+    veneno si resulta victorioso en su tirada de ataque.'
   model: {fileID: 6101278516748357157, guid: 22339fb220235be4692f3f31dd979b68, type: 3}

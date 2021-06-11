@@ -29,7 +29,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 3485771756262510833}
+  - {fileID: 1774554688840980151}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -48,6 +48,89 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3899856453893977076}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 674c17e8332139948aeff9b6839c9345, type: 2}
+  - {fileID: 2100000, guid: ac99f49d5658f4348b3d4d9863fc9242, type: 2}
+  - {fileID: 2100000, guid: 5d91065d8c7f3874bac6ecedd7f277c7, type: 2}
+  - {fileID: 2100000, guid: d9185a462d14f1a41b0d4b37ff8afa9e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1 &6379632581267302394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1774554688840980151}
+  - component: {fileID: 8527285685594371553}
+  - component: {fileID: 6303808846833958793}
+  m_Layer: 0
+  m_Name: HorroweenP1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1774554688840980151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6379632581267302394}
+  m_LocalRotation: {x: 0.00000011920929, y: -0.9999996, z: -0.000000059604645, w: -0.00094622374}
+  m_LocalPosition: {x: 4.348, y: 0, z: -2.115}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3574733045774900649}
+  m_Father: {fileID: 4419370872531134798}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -180.10799, z: 0}
+--- !u!33 &8527285685594371553
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6379632581267302394}
+  m_Mesh: {fileID: 4211103287629413370, guid: 0203e10a7071fc44cb4d92e837c19cb4, type: 3}
+--- !u!23 &6303808846833958793
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6379632581267302394}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -83,12 +166,12 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!1001 &5773515351376970820
+--- !u!1001 &5898686013500836124
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 4419370872531134798}
+    m_TransformParent: {fileID: 1774554688840980151}
     m_Modifications:
     - target: {fileID: 6935639559531861173, guid: c8739a42cecf429428a66f3f6721da47,
         type: 3}
@@ -150,11 +233,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Horroween Particles
       objectReference: {fileID: 0}
+    - target: {fileID: 6935639559531861175, guid: c8739a42cecf429428a66f3f6721da47,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43ae7194988cd384ea902c78d47cb388, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8739a42cecf429428a66f3f6721da47, type: 3}
---- !u!4 &3485771756262510833 stripped
+--- !u!4 &3574733045774900649 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6935639559531861173, guid: c8739a42cecf429428a66f3f6721da47,
     type: 3}
-  m_PrefabInstance: {fileID: 5773515351376970820}
+  m_PrefabInstance: {fileID: 5898686013500836124}
   m_PrefabAsset: {fileID: 0}

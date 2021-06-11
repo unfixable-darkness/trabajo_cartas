@@ -14,5 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 919132149155446097, guid: 763b0be0b9c4c5d4b972647e03b69a35, type: 3}
   name: VAMPIRO
-  description: 
+  description: '3 PV
+
+    2 ATK
+
+    Chupasangre empedernido, si logra conectar el
+    golpe, se regenera la mitad del valor del atk. '
   model: {fileID: 4150973686510732670, guid: 3b987e0b92e0f3e43af6ba9598a8b3c9, type: 3}
