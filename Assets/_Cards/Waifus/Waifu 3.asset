@@ -16,5 +16,5 @@ MonoBehaviour:
   name: Sonico
   PV: 
   ATK: 
-  description: 
+  description: Model and Singer/Guitarist of the band "First Astronomical Velocity"
   model: {fileID: 8450895045604820087, guid: cce4c02dd7fd3cf4a882d009c1c35d63, type: 3}
