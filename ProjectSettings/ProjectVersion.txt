@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 m_EditorVersion: 2019.4.10f1
 m_EditorVersionWithRevision: 2019.4.10f1 (5311b3af6f69)
+=======
+<<<<<<< HEAD
+m_EditorVersion: 2019.4.2f1
+m_EditorVersionWithRevision: 2019.4.2f1 (20b4642a3455)
+=======
+m_EditorVersion: 2019.4.24f1
+m_EditorVersionWithRevision: 2019.4.24f1 (5da6f0345e82)
+>>>>>>> origin/AndresWorksTheResurge
+>>>>>>> efe2e0c25521d96dce194e5afc5924e78cd690e3
